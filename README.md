@@ -15,5 +15,5 @@ Here are some of the tools I developed (or contributed to):
 * **SignatuR:** a database of useful gene signatures for single-cell analysis. [GitHub](https://github.com/carmonalab/SignatuR)
 
 [![Massimo's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=mass-a&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mass-a&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 

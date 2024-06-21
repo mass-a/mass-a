@@ -1,6 +1,6 @@
 ## Hi I'm Massimo 👋
 
-I'm a computational biologist @ [Carmona lab](https://github.com/carmonalab) at the Ludwig Institute for Cancer Research, Department of Oncology of the University of Lausanne, and at the Swiss Institute of Bioinformatics. Currently my work is focused on the development of tools for single-cell biology and on their application to better understand immune responses in cancer and infection.
+I'm a computational biologist @ [Carmona lab](https://github.com/carmonalab) at the Ludwig Institute for Cancer Research, Department of Oncology of the University of Lausanne, and at the Swiss Institute of Bioinformatics. Currently my work is focused on the development of tools for single-cell biology and on their application to improve our understanding of immune responses in cancer and infection.
 
 Here are some of the tools I developed (or contributed to):
 

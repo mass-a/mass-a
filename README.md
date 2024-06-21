@@ -32,3 +32,4 @@ Here are some of the tools I developed (or contributed to):
 [![Massimo's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=mass-a&show=discussions_started,discussions_answered&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mass-a&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=mass-a&base=100)
